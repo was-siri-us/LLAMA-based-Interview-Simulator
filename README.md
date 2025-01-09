@@ -7,7 +7,7 @@ An innovative platform designed to prepare users for job interviews using LLAMA3
 ## HackPrix 2024
 
 This project was demonstrated as part of the **HackPrix Hackathon**, a 36-hour hackathon hosted at Lords Institute of Engineering & Technology, Hyderabad, on **8th and 9th June 2024**. The HackPrix Hackathon is organized by **CodeWave Hub**, promoting innovation and technical excellence.
-![image](https://github.com/user-attachments/assets/5e61a3de-d75a-4acd-baf3-4a78fcb6d055)
+
 
 
 
