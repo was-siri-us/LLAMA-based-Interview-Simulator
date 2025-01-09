@@ -2,6 +2,21 @@
 
 An innovative platform designed to prepare users for job interviews using LLAMA3. This simulator provides users with a personalized interview experience, allowing them to practice and refine their skills in a realistic environment.
 
+
+
+## HackPrix 2024
+
+This project was demonstrated as part of the **HackPrix Hackathon**, a 36-hour hackathon hosted at Lords Institute of Engineering & Technology, Hyderabad, on **8th and 9th June 2024**. The HackPrix Hackathon is organized by **CodeWave Hub**, promoting innovation and technical excellence.
+
+
+
+
+
+
+
+
+
+
 ## Features
 
 - **User Authentication**: Log in securely to track your progress and reviews.
